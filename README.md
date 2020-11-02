@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Sławek. Frontend developer currently working in @apptension, one of the greatest SH in Poland!
+I'm Sławek. Frontend developer currently working in @merixstudio!
 
 - 🔭 I’m currently working on toolbox for road cyclist (personal, Strava-based PWA app)
 - 🌱 I’m currently learning what's the difference between *saga* and *thunk*... :thinking: 
