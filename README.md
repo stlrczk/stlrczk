@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I'm Sławek. Frontend developer currently working in @merixstudio!
 
 - 🔭 I’m currently working on toolbox for road cyclist (personal, Strava-based PWA app)
@@ -17,3 +17,6 @@ I'm Sławek. Frontend developer currently working in @merixstudio!
 <a href="https://www.instagram.com/suafko/">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+
+### Blog posts:
+- :atom: :orange: <a href="https://www.merixstudio.com/blog/test-driven-development-in-react-applications/">TDD in React @ Merixstudio Blog
