@@ -20,3 +20,4 @@ I'm Sławek. Frontend developer currently working in @merixstudio!
 
 ### Blog posts:
 - :atom: :orange: <a href="https://www.merixstudio.com/blog/test-driven-development-in-react-applications/">TDD in React @ Merixstudio Blog
+- :wrench: :orange: <a href="https://www.merixstudio.com/blog/how-write-useful-unit-tests-and-why-do-they-matter/">Useful unit tests</a>
