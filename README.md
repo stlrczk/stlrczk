@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm Sławek. Frontend developer currently working in @merixstudio!
+I'm Sławek. Frontend Engineer @ Uncapped!
 
-- 🔭 I’m currently working on React Native apps
+- 🔭 I’m currently working on React and React Native apps
 - 🌱 I’m currently learning which one is better - React-Query vs Redux Toolkit :wink: :thinking: 
 - 👯 I’m looking to collaborate on JS/React/PWA open source app or library
 - 💬 Ask me about folding bikes 🙈
