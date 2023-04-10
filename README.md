@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Sławek. Frontend Engineer @ Mindgram!
+I'm Sławek. Software Developer @VeedStudio!
 
 - 🔭 I’m currently working on React and React Native apps
 - 🌱 I’m currently learning which one is better - React-Query vs Redux Toolkit :wink: :thinking: 
